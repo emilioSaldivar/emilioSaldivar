@@ -1,11 +1,12 @@
 # Emilio Saldivar
 
-Proyecto para presentar mi portfolio hosteadno con github
+Proyecto para presentar mi portfolio hosteado con github
 
 ## Sobre el proyecto
 
 El portfolio es netamente informativo y descriptivo, acerca de las caracteristicas conocimientos y presentando solamente parte de lo que puedo ofrecer como compañero de trabajo.
-### Se ofrece informacion como:
+
+### Se ofrece informacion como
 
  [] Experiencias laborales
  [] Educacion
@@ -17,9 +18,10 @@ El portfolio es netamente informativo y descriptivo, acerca de las caracteristic
  [] Cursos complementarios y acceso a certificados
  [] Acceso a redes sociales
 
- ## Tecnologias utilizadas
+## Tecnologias utilizadas
 
  [] HTML, CSS Y JAVASCRIPT
  [] GTI (controlador de versiones)
  [] Entorno de trabajo VSCODE
  [] SO linux/windows
+ [] Markdown
