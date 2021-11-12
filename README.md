@@ -22,7 +22,7 @@
 
 - 📄 Aqui tienes un resumen de mi experiencia como profesional [Curriculum](https://drive.google.com/drive/folders/1H285To4LNLDMgVCMZ619iZ7HbW1VtcT4?usp=sharing)
 
-<h2 align="left">Tambien puedes contactarme en mis redes sociales:</h2>
+<h2 align="left">Tambien puedes contactarme en mis redes sociales, con un click:</h2>
 
 <p align="left">
     <br/>
@@ -31,7 +31,7 @@
     <a href="https://www.facebook.com/emiliomatiasc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emilio saldiva" height="50" width="50" /></a>
     <a href="https://www.instagram.com/emiliosaldivar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiliosaldivar__" height="50" width="50" /></a>
     <a href="https://www.youtube.com/channel/UCwy98ZYqQRsjrzvMDsHR1zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emilio saldivar" height="50" width="50" /></a>
-    <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emilio Saldivar#4858" height="50" width="50" />Mi nombre de usuario es "Emilio Saldivar#4858"</a>
+    <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emilio Saldivar#4858" height="50" width="50" /></a>
     <br/>
 </p>
 
