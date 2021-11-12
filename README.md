@@ -43,4 +43,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliosaldivar&show_icons=true&locale=en&layout=compact" alt="emiliosaldivar" width="350" height="150"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emiliosaldivar&show_icons=true&locale=en" alt="emiliosaldivar" width="400" height="400"/></p>
