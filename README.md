@@ -1,27 +1,43 @@
-# Emilio Saldivar
+<h1 align = "center"> Hola 👋, soy Emilio Saldivar </h1>
+<h3 align = "center"> Un apasionado de las Ciencias Informáticas. </h3>
 
-Proyecto para presentar mi portfolio hosteado con github
+<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=emiliosaldivar" alt = "emiliosaldivar" /> </a> </p>
 
-## Sobre el proyecto
+- 🔭 Actualmente estoy trabajando en [Mi portafolio] (<colocar el enlace del portafolio>)
 
-El portfolio es netamente informativo y descriptivo, acerca de las caracteristicas conocimientos y presentando solamente parte de lo que puedo ofrecer como compañero de trabajo.
+- 🌱 Actualmente estoy aprendiendo ** frameworks y cursos que estoy estudiando **
 
-### Se ofrece informacion como
+- 👯 Estoy buscando colaborar en [proyecto colaborativo este se puede borrar] (aca iba el enlace del proyecto colaborativo)
 
- [] Experiencias laborales
- [] Educacion
- [] Habilidades blandas y especificas
- [] Herramientas de trababjo
- [] Tecnologías conocidas y utilizadas
- [] Acceso a repositorio en github
- [] Acceso a drive acceso a videos educativos y materiales de consulta
- [] Cursos complementarios y acceso a certificados
- [] Acceso a redes sociales
+- 🤝 I'm looking para ayuda con [otro proyecto] (otro enlace del proyecto)
 
-## Tecnologias utilizadas
+- 👨‍💻 Todos mis proyectos están disponibles en [link del portfolio] (link del portfolio)
 
- [] HTML, CSS Y JAVASCRIPT
- [] GTI (controlador de versiones)
- [] Entorno de trabajo VSCODE
- [] SO linux/windows
- [] Markdown
+- 📝 Regularmente escribo artículos en [articulos sobre los que escribbo actiualmente] (articulos sobre los que escribbo actiualmente)
+
+- 💬 Pregúntame acerca de ** tecnologias porlas que me puedes preguntar **
+
+- 📫 Cómo contactarme ** emiliomatasc @ gmail. com **
+
+- 📄 Conoce mis experiencias [resumen de mi trayectoria] (resumen de mi trayectoria)
+
+- ⚡ Dato curioso ** algún dato curioso acerca de emilio matias **
+
+<h3 align = "left"> Conéctate conmigo: </ h3>
+<p align = "left">
+<a href="https://linkedin.com/in/emilio matias saldivar caputo" target="blank"> <img align = "center" src = "https: // raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt ="emilio matias saldivar caputo "altura =" 30 "ancho =" 40 "/> </a>
+<a href="https://stackoverflow.com/users/user:257687" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / master / src / images / icons / Social / stack-overflow.svg "alt =" usuario: 257687 "height =" 30 "width =" 40 "/> </a>
+<a href =" https : //fb.com/emilio saldiva "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images / icons / Social / facebook.svg "alt =" emilio saldiva "height =" 30 "width =" 40 "/> </a>
+<a href =" https://instagram.com/emiliosaldivar__ "target =" en blanco "> <img align =" centro "src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "emiliosaldivar__" altura = "30" ancho = " 40 "/> </a>
+<a href="https://www.youtube.com/c/emilio saldivar" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator / master / src / images / icons / Social / youtube.svg "alt =" emilio saldivar "height =" 30 "width =" 40 "/> </a>
+<a href =" https: / /discord.gg/Emilio Saldivar # 4858 "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images / icons / Social / discord.svg "alt =" Emilio Saldivar # 4858 "height =" 30 "width =" 40 "/> </a>
+</p>
+
+<h3 align =" left "> Idiomas y herramientas: </h3>
+<p align = "left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src = "https://angular.io/assets/images/logos /angular/angular.svg "alt =" angular "width =" 40 "height =" 40 "/> </a> <a href =" https://www.cprogramming.com/ "target =" _ blank "rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "c" width = "40" height = "40 "/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src =" https: //raw.githubusercontent.com / devicons / devicon / master / icons / cplusplus / cplusplus-original.svg "alt =" cplusplus "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. w3schools.com/css/ "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> < img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> </a> < a href = "https: // www.w3.org/html/ "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. linux.org/ "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "alt =" linux "width =" 40 "height =" 40 "/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "alt =" mongodb "width =" 40 "height =" 40 "/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ mysql / mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https://nodejs.org "target =" _ blank "rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "40" height = "40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src = "https: // raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href =" https: // sass-lang.com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt = "sass" width = "40" height = "40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src = "https : //www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>com / devicons / devicon / master / icons / python / python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href =" https: // sass- lang.com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src =" https: / /www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>com / devicons / devicon / master / icons / python / python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href =" https: // sass- lang.com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src =" https: / /www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>python "width =" 40 "height =" 40 "/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src =" https : //raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href = "https://spring.io/" target = "_ blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "primavera "width =" 40 "height =" 40 "/> </a> </p>python "width =" 40 "height =" 40 "/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src =" https : //raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href = "https://spring.io/" target = "_ blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "primavera "width =" 40 "height =" 40 "/> </a> </p>com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "ancho = "40" height = "40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src = "https: // www .vectorlogo.zone / logos / springio / springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "ancho = "40" height = "40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src = "https: // www .vectorlogo.zone / logos / springio / springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> </p>/ a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon .svg "alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>/ a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon .svg "alt =" primavera "width =" 40 "height =" 40 "/> </a> </p>
+
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=emiliosaldivar&show_icons=true&locale=en&layout=compact" alt = "emiliosaldivar" /> </p>
+
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=emiliosaldivar&show_icons=true&locale=en" alt = "emiliosaldivar" /> </p>
+
+
