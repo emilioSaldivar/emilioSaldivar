@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Emilio Saldivar</h1>
-<h2 align="center">Un apac</h2>
+<h2 align="center">Un apasionado de las Ciencias Informáticas y la docencia.</h2>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emiliosaldivar" alt="emiliosaldivar" /></a> </p>
