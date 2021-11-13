@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emiliosaldivar" alt="emiliosaldivar" /></a> </p>
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [Mi Portafolio](colocar el link de mi portafolio)
+- 🔭 Actualmente estoy trabajando en [Mi Portafolio](https://emiliosaldivar.github.io/)
 
 - 🌱 Actualmente estoy aprendiendo **Spring Boot, Excel, SASS, jQuery, Angular, Python, Ingles**
 
