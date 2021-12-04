@@ -11,7 +11,7 @@
 
 - 👯 Estoy buscando colaborar en [algun proyecto web (back-end) o software de facturacion electronica (e-kuatia)](https://ekuatia.set.gov.py/portal/ekuatia)
 
-- 🤝 Estoy dispuesto a sugrencias con [Mi Portafolio](colocar link de mi portafolio)
+- 🤝 Estoy dispuesto a sugrencias con [Aplicacion Presupuesto](https://emiliosaldivar.github.io/CampoSantaLucia/)
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi [Repositorio de GITHUB](https://github.com/emilioSaldivar?tab=repositories)
 
