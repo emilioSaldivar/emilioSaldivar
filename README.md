@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Mi Portafolio](https://emiliosaldivar.github.io/)
 
-- 🌱 Actualmente estoy aprendiendo **Spring Boot, Excel, SASS, jQuery, Angular, Python, Ingles, bootstrap**
+- 🌱 Actualmente estoy aprendiendo **Javascript/Nodejs, Big Data/BA/BI, , Herramienteas de GCP, Arquitectura y construcción de APIs e Ingles**
 
 - 👯 Estoy buscando colaborar en [algun proyecto web (back-end) o software de facturacion electronica (e-kuatia)](https://ekuatia.set.gov.py/portal/ekuatia)
 
@@ -17,7 +17,7 @@
 
 - 📝 Regularmente preparo contenidos y clases de ciencias exactas [Articulos y videoclases](https://drive.google.com/drive/folders/1avYKijCNOUbAYDvv1dPPNURmRjhCvabX?usp=sharing), [más videoclases](https://drive.google.com/drive/folders/1WqOWRMSQQFnt3SRB8FEJFI4a6wxYY8oS?usp=sharing)
 
-- 💬 Puedo responder preguntas referentes a estas herramientas **Java, GIT, HTML, CSS, JAVASCRIPT, BASH, POO, MVC, MongoDB, APIs(REST Y SOAP), Ciencias Exactas, Productividad Personal y un poco de ciberseguridad**
+- 💬 Puedo responder preguntas referentes a estas herramientas **Java, GIT, HTML, CSS, JAVASCRIPT, ORACLE/PLSQL, PYTHON, BASH de Linux, PostgreSQL, APIs(REST Y SOAP), Google Cloud Platform, Swagger entre otras más.**
 
 - 📫 Puedes contactarme [escribiendome un mail](mailto:emiliomatasc@gmail.com) o un [whatsapp](https://api.whatsapp.com/send?phone=595971722168&text=%F0%9F%91%8B%F0%9F%91%8BHola%20Emilio%2C%20github%20me%20trajo%20a%20tu%20whatsapp%F0%9F%98%81)
 
