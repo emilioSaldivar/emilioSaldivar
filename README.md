@@ -1,58 +1,77 @@
-<h1 align="center">Hola 👋, soy Emilio Saldivar</h1>
-<h2 align="center">Un apasionado de las Ciencias Informáticas y la docencia.</h2>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emiliosaldivar" alt="emiliosaldivar" /></a> </p>
-<br/>
-
-- 🔭 Actualmente estoy trabajando en [Mi Portafolio](https://emiliosaldivar.github.io/)
-
-- 🌱 Actualmente estoy aprendiendo **Javascript/Nodejs, Big Data/BA/BI, , Herramienteas de GCP, Arquitectura y construcción de APIs e Ingles**
-
-- 👯 Estoy buscando colaborar en [algun proyecto web (back-end) o software de facturacion electronica (e-kuatia)](https://ekuatia.set.gov.py/portal/ekuatia)
-
-- 🤝 Estoy dispuesto a sugrencias con [Aplicacion Presupuesto](https://emiliosaldivar.github.io/CampoSantaLucia/)
-
-- 👨‍💻 Todos mis proyectos están disponibles en mi [Repositorio de GITHUB](https://github.com/emilioSaldivar?tab=repositories)
-
-- 📝 Regularmente preparo contenidos y clases de ciencias exactas [Articulos y videoclases](https://drive.google.com/drive/folders/1avYKijCNOUbAYDvv1dPPNURmRjhCvabX?usp=sharing), [más videoclases](https://drive.google.com/drive/folders/1WqOWRMSQQFnt3SRB8FEJFI4a6wxYY8oS?usp=sharing)
-
-- 💬 Puedo responder preguntas referentes a estas herramientas **Java, GIT, HTML, CSS, JAVASCRIPT, ORACLE/PLSQL, PYTHON, BASH de Linux, PostgreSQL, APIs(REST Y SOAP), Google Cloud Platform, Swagger entre otras más.**
-
-- 📫 Puedes contactarme [escribiendome un mail](mailto:emiliomatasc@gmail.com) o un [whatsapp](https://api.whatsapp.com/send?phone=595971722168&text=%F0%9F%91%8B%F0%9F%91%8BHola%20Emilio%2C%20github%20me%20trajo%20a%20tu%20whatsapp%F0%9F%98%81)
-
-- 📄 Aqui tienes un resumen de mi experiencia como profesional [Curriculum](https://drive.google.com/drive/folders/1H285To4LNLDMgVCMZ619iZ7HbW1VtcT4?usp=sharing)
-
-<h2 align="left">Tambien puedes contactarme en mis redes sociales, con un click:</h2>
+<h1 align="center">¡Hola 👋, soy Emilio Saldivar!</h1>
+<h2 align="center">Apasionado por la tecnología, el desarrollo backend y la docencia.</h2>
 
 <p align="center">
-    <br/>
-    <a href="https://linkedin.com/in/emilio-saldivar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilio-saldivar" height="50" width="50" /></a>
-    <a href="https://stackoverflow.com/users/17395759/emilio-matias-saldivar-caputo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:257687" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/emiliosaldivar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiliosaldivar__" height="50" width="50" /></a>
-    <a href="https://www.youtube.com/channel/UCwy98ZYqQRsjrzvMDsHR1zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emilio saldivar" height="50" width="50" /></a>
-    <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emilio Saldivar#4858" height="50" width="50" /></a>
-    <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=emiliosaldivar" alt="emiliosaldivar" />
+  </a>
 </p>
-
-<h2 align="left">Lenguajes y Tecnologias:</h2>
 <br/>
-<p align="center"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/> </a>
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soapUI" width="50" height="50"/> </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50"/> </a>  
- <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="ORACLE" width="50" height="50"/> </a>
+
+- 🔭 Actualmente desarrollando mi [Portafolio](https://emiliosaldivar.github.io/)
+- 🌱 Aprendiendo y profundizando en: **Node.js, Javascript, Big Data, Business Analytics, GCP, Arquitectura de APIs, automatización y CI/CD**
+- 👨‍💻 Amante del desarrollo de APIs (REST y SOAP), integración de sistemas, automatización y despliegue de aplicaciones con Docker y PostgreSQL
+- 🧑‍🏫 Comprometido con la docencia y la divulgación de ciencias exactas y tecnología. Compartiendo recursos y videoclases: [Material y Videoclases](https://drive.google.com/drive/folders/1avYKijCNOUbAYDvv1dPPNURmRjhCvabX?usp=sharing)
+- 👀 Interesado en colaborar en proyectos de backend, automatización, facturación electrónica, integración de APIs, y aplicaciones de analítica de datos.
+- 🛠️ Aptitudes y stack:  
+  **Java, Node.js, JavaScript, Python, PL/SQL, PostgreSQL, ORACLE, MongoDB, Git, Docker, REST APIs, SOAP, Bash, Power BI, GCP, Agile/Scrum, Jira, Maven, Sistemas Distribuidos, Data Warehousing, Business Analytics**
+- 💬 Puedo ayudarte con desarrollo backend, integración de sistemas, automatización de procesos, gestión de bases de datos, análisis de datos, y docencia tecnológica.
+- 👨‍🎓 **Formación Académica:**
+  - Diplomatura en Big Data & Business Analytics – Facultad Politécnica, Universidad Nacional de Asunción (2023)
+  - Licenciatura e Ingeniería en Ciencias Informáticas y Sistemas de Producción – Universidad Nacional de Asunción
+  - Aptitudes destacadas: **Data Warehousing, Big Data, Business Analytics, Power BI, Data Science, PL/SQL, REST APIs, Node.js, Sistemas Distribuidos**
+
+---
+
+<h2 align="center">Redes y enlaces:</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/emilio-saldivar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
+  <a href="https://stackoverflow.com/users/17395759/emilio-matias-saldivar-caputo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" width="50" height="50" />
+  </a>
+  <a href="https://www.instagram.com/emiliosaldivar__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCwy98ZYqQRsjrzvMDsHR1zg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="50" height="50" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="50" height="50" />
+  </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=emiliosaldivar&show_icons=true&locale=en" alt="emiliosaldivar" width="300" height="150"/>
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliosaldivar&show_icons=true&locale=en&layout=compact" alt="emiliosaldivar" width="350" height="150"/>
+<h2 align="center">Lenguajes y Tecnologías</h2>
+<p align="center">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="Oracle" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/></a>
+  <a href="https://www.soapui.org/" target="_blank"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="SoapUI" width="50" height="50"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="50" height="50"/></a>
+</p>
 
+---
+<h2 align="center">🛠️ Stack con el que más me siento cómodo</h2>
+
+<p align="center">
+  <b>Java + Oracle PL/SQL</b><br>
+  <b>Node.js + PostgreSQL + Docker</b><br>
+  <b>Google Cloud Platform (GCP)</b>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emiliosaldivar&show_icons=true&locale=en" alt="emiliosaldivar" width="350" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliosaldivar&show_icons=true&locale=en&layout=compact" alt="emiliosaldivar" width="400" height="150"/>
+</p>
